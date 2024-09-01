@@ -1,0 +1,13 @@
+{
+    "credits": "@Vanhuy2003",
+    "showDialog": true,
+    "title": "Mod Trương Văn Huy",
+    "message": "Xin Chào Mọi Người 🌭\n Chúc Mọi Người Có Một Ngày Vui Vẻ ♥️\n Bạn Đang Sử Dụng APP Mod Của Trương Văn Huy 🇻🇳\n App Đã Được Sửa Đổi✨",
+    "showNegativeButton": true,
+    "negativeButtonText": "TELEGRAM",
+    "negativeButtonUrl": "https://t.me/Vanhuy2003",
+    "showPositiveButton": false,
+    "positiveButtonText": "OK",
+    "maxShowCount": 3,
+    "controlByShowCount": true
+}
